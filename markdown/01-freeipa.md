@@ -59,6 +59,9 @@ Identities, Authentication, Authorisation
 ![img](images/freeipa_aufbau.svg) <!-- .element: height="400px" -->
 
 
+![img](images/freeipa_aufbau_trust.svg) <!-- .element: height="400px" -->
+
+
 ## Installation
 
 **Server**
