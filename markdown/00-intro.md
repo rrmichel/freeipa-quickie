@@ -7,5 +7,5 @@ Michel Raabe
 
 GFU Education Quickies | 13.05.2020
 
-^Note:
+<!-- Note -->
 FreeIPA - Alles aus einer Hand
